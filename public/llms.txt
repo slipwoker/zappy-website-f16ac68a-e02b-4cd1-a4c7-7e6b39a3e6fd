@@ -1,0 +1,82 @@
+# שער ישיר — Generative Engine Optimization Map
+
+> A football-focused sports website that serves as a hub for fans to view upcoming and live matches, check schedules and match times, and watch games directly through the platform. The site revolves around live sports content and real-time match information, targeting football enthusiasts who want a one-stop destination for following their favorite sport.
+
+---
+
+## Pages
+
+### בית
+https://-f16ac68a.zappy5.app
+מרכז הספורט האולטימטיבי לחובבי כדורגל: שידורים ישירים, לוחות זמנים מעודכנים ותוצאות בזמן אמת. הצטרף עכשיו לשער ישיר ותחווה את המשחק במלוא העוצמה.
+
+### תכונות
+https://-f16ac68a.zappy5.app/features
+כל התכונות שצריך במקום אחד: עדכוני שידור מהירים, ממשק צפייה חכם והתראות על משחקים קריטיים. שער ישיר משדרג את חוויית הספורט שלך – נסה עכשיו.
+
+### אודות
+https://-f16ac68a.zappy5.app/about
+שער ישיר נולד מאהבה לספורט כדי לחבר אותך למשחקים החשובים ביותר. הכירו את החזון, הצוות והמחויבות להביא לך כל שער וכל רגע דרמטי ישר למסך.
+
+### צור קשר
+https://-f16ac68a.zappy5.app/contact
+צריך עזרה במציאת שידור? רוצה להציע שיפור? צוות שער ישיר זמין לך. פנה אלינו עכשיו ונדאג שתחזור למגרש במהירות האפשרית – חוויית צפייה ללא פשרות.
+
+### תודה שפניתם | שער ישיר
+https://-f16ac68a.zappy5.app/thank-you
+שער ישיר - תודה שפניתם | שער ישיר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f16ac68a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f16ac68a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f16ac68a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f16ac68a.zappy5.app/contact
+- Endpoint: https://-f16ac68a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שער ישיר
+A football-focused sports website that serves as a hub for fans to view upcoming and live matches, check schedules and match times, and watch games directly through the platform. The site revolves around live sports content and real-time match information, targeting football enthusiasts who want a one-stop destination for following their favorite sport.
+
+## Target Audience
+- אוהדי כדורגל
+- שחקני ליגת פנטזי
+- מהמרי ספורט
+
+## Industry
+Sports & Entertainment
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f16ac68a.zappy5.app/sitemap.xml
+- Robots: https://-f16ac68a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f16ac68a.zappy5.app/llms-full.txt
